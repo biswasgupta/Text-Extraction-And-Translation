@@ -19,7 +19,7 @@ And then, using our pre-trained model, it will be able to detect the font around
 The aim of this project is to develop a system capable of recognizing text formatting styles in pdf documents using its LaTeX formatting and while preserving those formats to convert to other language 
 
 
-## TRAIN
+## TRAINING 
 
 After converting pdfs to image extracted cnn features of each word and given label from latex script for font style and font size
 
@@ -55,7 +55,7 @@ The challenge was to bring uniformity in position (moving up and down) and lines
     
 
 
-### example:
+### Example:
 - original doc converted to image:
 
 <img src="https://github.com/MaheswarreddyPalugulla/Document-translation/blob/main/test1/test1_f.png?raw=true" alt="image" width="400"/>
